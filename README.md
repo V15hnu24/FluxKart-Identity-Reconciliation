@@ -51,9 +51,7 @@ fluxkart/
    ```bash
    npm install
    ```
-
-3. Configure the PostgreSQL database connection in `src/database/connect.ts`.
-
+   
 ## Database Schema
 
 Use the SQL schema from `utils/contact-schema.sql` to create the `Contact` table and the necessary trigger for updating the `updatedAt` column.
@@ -121,7 +119,7 @@ curl -X POST http://localhost:3000/identify -H "Content-Type: application/json" 
 
 ### Deployment
 
-This project is deployed on render.com. 
+This project is deployed on the Render.com platform.
 
 **Hosted Endpoint:** [https://fluxkart-identity-reconciliation.onrender.com/identify](https://fluxkart-identity-reconciliation.onrender.com/identify)
 
