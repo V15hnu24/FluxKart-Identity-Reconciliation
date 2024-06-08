@@ -8,17 +8,12 @@ FluxKart.com is deadpan serious about their customer experience. There is nothin
 
 This project is to implement the system.
 
-```markdown
+
 ## Features
 
 - **Contact Identification**: Identify contacts based on email or phone number.
 - **Linking Contacts**: Link contacts with the same email or phone number.
 - **Primary and Secondary Contacts**: Manage primary and secondary contacts effectively.
-```
-
-# Contact Identifier API
-
-This is a Node.js API for identifying and linking customer contacts based on email and phone number. The API ensures that different orders made with different contact information can be linked to the same person.
 
 ## Project Structure
 
