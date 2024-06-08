@@ -19,6 +19,7 @@ This project is to implement the system.
 
 ```
 fluxkart/
+├── dist/
 │
 ├── src/
 │   ├── controllers/
@@ -122,4 +123,6 @@ curl -X POST http://localhost:3000/identify -H "Content-Type: application/json" 
 
 This project is deployed on render.com. 
 
-**Hosted Endpoint:** `[https://fluxkart-identity-reconciliation.onrender.com/identify](https://fluxkart-identity-reconciliation.onrender.com/identify)`
+**Hosted Endpoint:** [https://fluxkart-identity-reconciliation.onrender.com/identify](https://fluxkart-identity-reconciliation.onrender.com/identify)
+
+
