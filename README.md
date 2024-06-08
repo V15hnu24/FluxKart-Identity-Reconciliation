@@ -8,16 +8,12 @@ FluxKart.com is deadpan serious about their customer experience. There is nothin
 
 This project is to implement the system.
 
-Sure, here's a template for your README.md file with a placeholder for the hosting link:
-
 ```markdown
-
 ## Features
 
 - **Contact Identification**: Identify contacts based on email or phone number.
 - **Linking Contacts**: Link contacts with the same email or phone number.
 - **Primary and Secondary Contacts**: Manage primary and secondary contacts effectively.
-
 ```
 
 # Contact Identifier API
@@ -131,4 +127,4 @@ curl -X POST http://localhost:3000/identify -H "Content-Type: application/json" 
 
 This project is deployed on render.com. 
 
-**Hosted Endpoint:** `[Your hosted URL here]`
+**Hosted Endpoint:** `https://fluxkart-identity-reconciliation.onrender.com/identify`
