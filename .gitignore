@@ -47,3 +47,6 @@ build/
 
 # Visual Studio Code
 .vscode/
+
+# Local Netlify folder
+.netlify
